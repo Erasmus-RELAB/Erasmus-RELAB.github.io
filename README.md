@@ -1,2 +1,2 @@
 # Erasmus-RELAB.github.io
-Landing Page
+RELAB Project Homepage
